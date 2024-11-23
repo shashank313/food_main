@@ -1,4 +1,4 @@
-# MasterFood
+# Food_main
 
 <h3>About</h3>
 <p>This is an online food delivery managment system.</p>
@@ -6,8 +6,7 @@
 <p>Implemented using PHP,CSS, HTML</p>
 
 
-                                                                                                                   </tr>
-</table>
+                                                                                                 
 
 
 
